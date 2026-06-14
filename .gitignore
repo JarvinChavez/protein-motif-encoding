@@ -2,6 +2,4 @@ __pycache__/
 *.pyc
 .venv/
 .DS_Store
-output_images/
-*.png
-!samples/*.png
+data/encoded_motif_tensor.csv
